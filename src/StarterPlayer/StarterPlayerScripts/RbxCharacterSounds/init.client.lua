@@ -47,6 +47,7 @@ local SOUND_DATA : { [string]: {[string]: any}} = {
 		SoundId = "rbxassetid://4416041299",
 		Looped = true,
 		Pitch = 1.85,
+		Volume = 0.2
 		
 	},
 	Splash = {
